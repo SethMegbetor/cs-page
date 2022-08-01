@@ -61,6 +61,8 @@ form{
     width: 100%;
     height: 30vh;
     margin-top: 70px;
+    justify-content: center;
+    align-items: center;
 }
 
 form .email{
@@ -71,7 +73,7 @@ form .email{
     padding: 10px;
     background-color: transparent;
     color: #fff;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 form .button{
@@ -79,7 +81,9 @@ form .button{
     height: 50px;
 }
 
-
+footer{
+    color: #8c8c8c;
+}
 
 footer .ftBold{
     color: #fff;
