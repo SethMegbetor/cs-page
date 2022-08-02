@@ -21,7 +21,7 @@ justify-content: center;
 .logo {
   text-align: center;
   justify-content: center;
-  margin-top: 200px;
+  margin-top: 80px;
 }
 
 .logoText{
@@ -79,6 +79,7 @@ form .email{
 form .button{
     width: 10%;
     height: 50px;
+    cursor: pointer;
 }
 
 footer{
